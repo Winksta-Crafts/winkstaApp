@@ -1,0 +1,45 @@
+.login-page, .create-account-page{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: #292435;
+}
+#login-logo{
+    position: fixed;
+    margin-top: 20px;
+    width: 100px;
+    margin-left: 35%;
+}
+#login-logo-holder{
+    position: fixed;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    margin-top: 70px;
+    display: inline-flex;
+}
+#login-logo{
+    position: relative;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.app-entrance{
+    width: 100%;
+    height: 40px;
+    background-color: #9F8AC0;
+    border: none;
+    border-radius: 5px;
+}
+.inquiry-wrapper{
+    width: 90%;
+    position: absolute;
+    bottom: 20%;
+    background-color: transparent;
+    left: 5%;
+    height: auto;
+}
+.inquiry{
+    text-align: center;
+    color: #9F8AC0;
+}
