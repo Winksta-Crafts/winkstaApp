@@ -1,0 +1,30 @@
+.login-form{
+    position: relative;
+    width: 80%;
+    top: 30%;
+    left: 10%;
+}
+input{
+    width: 100%;
+    min-height: 16px;
+    height: 32px;
+    max-height: 32px;
+    outline: none;
+    border: none;
+    margin-bottom: 0.5rem;
+    background: none;
+    border-bottom: 1.5px solid white;
+}
+header{
+    position: fixed;
+    width: 90%;
+    left: 5%;
+    height: auto;
+    background-color: orangered;
+    display: inline-flex;
+    margin-top: 15px;
+}
+.icons{
+    width: 25px;
+    height: 25px;
+}
